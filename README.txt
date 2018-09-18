@@ -2,7 +2,7 @@ Project:     The Irwin
 Description: StingRay / IMSI Catcher detector
 Objective:   To detect rogue cell phone towers for less than $100 USD.
 Model:       2G/3G (Adafruit FONA Feather 32u4)
-Parts:		 Adafruit Feather 32u4 FONA
+Parts:       Adafruit Feather 32u4 FONA
                https://www.adafruit.com/product/3027
              Lithium Ion Battery (3.7v 1200mAh)
                https://www.adafruit.com/product/258
